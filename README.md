@@ -1,4 +1,4 @@
-# Pokemon_analysis
+# Pokemon analysis
 
 ## About the project
 
